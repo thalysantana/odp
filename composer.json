@@ -1,6 +1,8 @@
 {
-    "name": "odplib/odplib",
+    "name": "odp/odplib",
+    "homepage": "http://github.com/thalysantana/odp",
     "type": "library",
+    "license": "MIT",
     "require": {
         "php": ">=5.3.0",
         "psr/log": "~1.0"
