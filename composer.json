@@ -1,14 +1,9 @@
 {
-    "name": "odp/odp",
-    "homepage": "http://github.com/thalysantana/odp",
+    "name": "odplib/odplib",
     "type": "library",
-    "version": "0.0.1",
     "require": {
         "php": ">=5.3.0",
         "psr/log": "~1.0"
-    },
-    "autoload": {
-        "psr-0": {"Odp": "src"}
     },
     "extra": {
         "branch-alias": {
