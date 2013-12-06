@@ -8,6 +8,11 @@
         "psr/log": "~1.0"
     },
     "autoload": {
-        "psr-0": {"Odp": "src/"}
+        "psr-0": {"Odp": "src"}
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
     }
 }
